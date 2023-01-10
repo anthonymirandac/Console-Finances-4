@@ -1,6 +1,6 @@
 # Console-Finances
 
-#Task
+# Task
 
 We have been given a dataset composed of arrays with two fields: Date and Profit/Losses.
 Your task is to write JavaScript code that analyzes the records to calculate each of the following:
